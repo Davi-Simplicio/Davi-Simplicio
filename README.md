@@ -21,7 +21,3 @@
 
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/davi-simplicio/)
-<div align="right">
-  <p>Contador de Visitantes</p>
-  <p><img src="https://profile-counter.glitch.me/Davi-Simplicio/count.svg"/></p>
-</div>
