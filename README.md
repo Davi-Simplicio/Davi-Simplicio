@@ -20,8 +20,7 @@
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[link](https://www.linkedin.com/in/davi-simplicio/)
-
+[LinkedIn](https://www.linkedin.com/in/davi-simplicio/)
 <div align="right">
   <p>Contador de Visitantes</p>
   <p><img src="https://profile-counter.glitch.me/Davi-Simplicio/count.svg"/></p>
